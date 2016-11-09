@@ -1,1 +1,1 @@
-There are nine planets.
+There are eight planets.
